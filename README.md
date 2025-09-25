@@ -4,7 +4,7 @@
 
 ### Aspiring Software Engineer
 
-👋 Hi, I'm Eniola — an aspiring Software Engineer with a strong foundation in web technologies such as HTML, CSS, and JavaScript. I am proficient in modern frontend frameworks, including React and Next.js, and I am currently enhancing my skills in mobile app development with React Native, supported by Firebase and Supabase for robust data management.
+👋 Hi, I'm Eniola — a Software Engineer with a strong foundation in web technologies such as HTML, CSS, and JavaScript. I am proficient in modern frontend frameworks, including React and Next.js, and I am currently enhancing my skills in mobile app development with React Native, supported by Firebase and Supabase for robust data management.
 On the backend, I have experience working with Node.js, Express, PHP, and AdonisJS, as well as Java with Spring Boot, allowing me to design and develop reliable full-stack applications.
 As an IT student, I am passionate about building dynamic, responsive, and user-friendly solutions with clean and maintainable code. I enjoy exploring the latest technology trends and thrive in collaborative, innovative projects. 🚀
 
