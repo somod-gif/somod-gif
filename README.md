@@ -1,103 +1,218 @@
-# Badmus Eniola
+# 👋 Hey there! I'm Badmus Eniola
 
-![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=somod-gif&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### Aspiring Software Engineer
+**Software Engineer | Full-Stack Engineer | Cloud & DevOps Enthusiast**
 
-👋 Hi, I'm Eniola — a Software Engineer with a strong foundation in web technologies such as HTML, CSS, and JavaScript. I am proficient in modern frontend frameworks, including React and Next.js, and I am currently enhancing my skills in mobile app development with React Native, supported by Firebase and Supabase for robust data management.
-On the backend, I have experience working with Node.js, Express, PHP, and AdonisJS, as well as Java with Spring Boot, allowing me to design and develop reliable full-stack applications.
-As an IT student, I am passionate about building dynamic, responsive, and user-friendly solutions with clean and maintainable code. I enjoy exploring the latest technology trends and thrive in collaborative, innovative projects. 🚀
+📍 Lagos, Nigeria  
 
-Let’s build something amazing together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badmus-eniola)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://badmus-eniola.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eniolabadmus351@gmail.com)
 
-* 🖥️  Check out my portfolio at [My Portfolio](http://enitech.vercel.app/)
-* ✉️  You can contact me at [eniolabadmus351@gmail.com](mailto:eniolabadmus351@gmail.com)
-* 🧠  Currently learning AdonisJS and React Native
-* 🤝  Open to collaborating on interesting projects
+</div>
 
-### Skills
+---
 
-#### Mobile App Development
-<p align="left">
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" width="36" height="36" alt="React Native" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase" /></a>
-</p>
+# 🚀 About Me
 
-#### Frontend
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a>
-</p>
+I’m a results-driven **Software Engineer** focused on building scalable web, mobile, and enterprise systems with strong architecture and cloud infrastructure.
 
-#### Backend
-<p align="left">
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://adonisjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="36" height="36" alt="AdonisJS" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>
-</p>
+I work across frontend, backend, cloud deployment, and system optimization — building secure, production-ready applications from idea to deployment.
 
+---
 
-#### Database
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+# 🏢 Professional Projects
 
-#### Tools and Technologies
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
-</p>
+---
 
-#### Others
-<p align="left">
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+## 🔹 Software Engineer at Ashlab Technologies
 
-### Socials
+Company focused on building **Web & Mobile Systems, Enterprise Software, and Technology Consultation.**
 
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100081125073849" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
-</a>
-<a href="https://www.github.com/somod-gif" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/badmus-eniola-236370253" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-<a href="https://www.x.com/BadmusEniola07" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-</a>
-<a href="https://www.threads.net/@badmus_eniola07" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" />
-</a>
-</p>
+- Built scalable applications using **Vue.js & Laravel**
+- Designed RESTful APIs and structured backend systems
+- Implemented authentication & role-based access control
+- Optimized database performance and application architecture
+- Contributed to enterprise-grade web systems
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🔹 Software Engineer at Quodel Technologies
 
-<a href="http://www.github.com/somod-gif">
-  <img src="https://github-readme-stats.vercel.app/api?username=somod-gif&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="somod-gif's GitHub stats" />
-</a>
+Technology company specializing in **Web Systems, Mobile Applications, Software Development & Consultation Services.**
 
-<a href="http://www.github.com/somod-gif">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somod-gif&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+- Developed scalable web platforms
+- Architected backend systems and APIs
+- Contributed to software consultation and solution design
+- Built responsive UI systems and admin dashboards
+- Implemented secure authentication workflows
+
+---
+
+## 🔹 Software Engineer at Techera
+
+Cloud-focused software development company.
+
+- Developed cloud-native applications using **Next.js**
+- Managed deployments on **Oracle Cloud Infrastructure**
+- Implemented CI/CD pipelines
+- Built scalable frontend systems and dashboards
+- Optimized performance for enterprise applications
+
+---
+
+# 🌍 Product Projects
+
+---
+
+## 🌐 Dhaat Hub  
+**Islamic Services Platform | Full-Stack Developer | Live**
+
+Integrated Islamic platform providing authentic knowledge, ethical services, and community development.
+
+**Built:**
+- Multi-service platform (Arabic classes, Wears, Logistics)
+- WhatsApp & Telegram integration
+- E-commerce system with payments
+- Admin dashboard for content management
+- Fully responsive UI system
+
+**Tech:** Next.js, TypeScript, TailwindCSS, Shadcn/ui, Vercel, WhatsApp API  
+🔗 https://dhaathub.vercel.app  
+
+---
+
+## 🖨️ 59Minutes Prints  
+**Production Startup | Software Developer | Live**
+
+Print-on-demand platform for efficient browsing and checkout.
+
+**Built:**
+- Dynamic product rendering
+- Optimized UX for faster purchasing decisions
+- Custom product customization interface
+- Multi-step checkout system
+
+**Tech:** Next.js, TailwindCSS, JSON APIs, Vercel  
+🔗 https://59minutesprint.com  
+
+---
+
+## 🚚 Meu Deliver  
+**Logistics & Delivery Platform | Software Developer | Pre-Launch**
+
+Nationwide delivery platform for food, groceries, and packages.
+
+**Built:**
+- Scalable UI architecture
+- Interactive dashboards
+- Real-time tracking interface
+- Multi-vendor management system
+
+**Tech:** Next.js, TailwindCSS, Firebase, PostgreSQL, REST APIs  
+🔗 https://www.meudeliver.com  
+
+---
+
+## 🏦 Accessivo  
+**Enterprise / Fintech Application | Frontend Engineer | Live**
+
+Enterprise-grade platform with secure dashboards and API-driven views.
+
+**Built:**
+- Role-based dashboard components
+- Real-time API integrations
+- Data visualization interfaces
+- Enterprise authentication system
+
+**Tech:** React, TailwindCSS, REST APIs, PostgreSQL  
+🔗 https://accessivo.io  
+
+---
+
+## 🛒 CartWave  
+**SaaS E-commerce Platform | Frontend Developer | Live**
+
+Self-service e-commerce system for businesses.
+
+**Built:**
+- Persistent cart state management
+- Multi-step checkout optimization
+- Admin dashboard interface
+- Product management system
+
+**Impact:** Reduced store setup time by 70%
+
+**Tech:** Next.js, TailwindCSS, PostgreSQL, Spring Boot, REST APIs  
+🔗 https://cartwave.vercel.app  
+
+---
+
+## 💧 Water Groove  
+**Investment Platform | Frontend Developer | Live**
+
+Investment platform connecting investors to sustainable projects.
+
+**Built:**
+- Investment dashboard & portfolio system
+- Modern brand-aligned UI
+- Performance optimization
+- Interactive project showcase
+
+**Tech:** Next.js, TailwindCSS, TypeScript, PostgreSQL, Auth0  
+🔗 https://www.watergrooveinvestment.com  
+
+---
+
+# 🛠️ Tech Stack
+
+## 🧠 Languages
+JavaScript • TypeScript • PHP • Java
+
+## 🎨 Frontend
+Next.js • React • Vue.js • TailwindCSS • Shadcn/ui
+
+## ⚙️ Backend
+Laravel • Node.js • NestJS • Express.js • Spring Boot
+
+## 🗄️ Databases
+PostgreSQL • MySQL • MongoDB • Firebase
+
+## ☁️ DevOps & Cloud
+Docker • Oracle Cloud Infrastructure • AWS • Vercel
+
+## 🔐 APIs & Integrations
+REST APIs • JSON APIs • Authentication Systems • WhatsApp API • Telegram Integration • Auth0
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somod-gif&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somod-gif&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somod-gif&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+# 💬 Let's Connect
+
+Open to building scalable systems, enterprise software, and impactful digital products.
+
+📧 eniolabadmus351@gmail.com  
+🔗 https://www.linkedin.com/in/badmus-eniola  
+🌍 https://badmus-eniola.vercel.app  
+
+---
+
+### 💭 "Code it simple. Architect it right. Scale it confidently."
+
+⭐ From Badmus Eniola
